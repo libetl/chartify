@@ -1,0 +1,10 @@
+.idea
+yarn.lock
+send_this_file_to_aws.zip
+package-lock.json
+index.js
+chartify.iml
+node_modules
+fakeKibanaSearch.js
+kibanaQuickSearch.js
+offlineTest.js
